@@ -2,7 +2,7 @@
   {
     "code": 0,
     "grade": 4,
-    "attack": 30,
+    "attack": 3,
     "hp": 100,
     "name": "레온",
     "spritePath": "Soldier/leon/sp_leon"
