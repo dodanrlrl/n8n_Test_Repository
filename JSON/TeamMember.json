@@ -1,0 +1,82 @@
+[
+  {
+    "soldier_id": 0,
+    "leader": true,
+    "code": 20,
+    "level": 1,
+    "exp": 1,
+    "team": 0
+  },
+  {
+    "soldier_id": 1,
+    "leader": false,
+    "code": 21,
+    "level": 1,
+    "exp": 1,
+    "team": 0
+  },
+  {
+    "soldier_id": 2,
+    "leader": false,
+    "code": 20,
+    "level": 1,
+    "exp": 1,
+    "team": 0
+  },
+  {
+    "soldier_id": 3,
+    "leader": false,
+    "code": 21,
+    "level": 1,
+    "exp": 1,
+    "team": 0
+  },
+  {
+    "soldier_id": 4,
+    "leader": false,
+    "code": 20,
+    "level": 1,
+    "exp": 1,
+    "team": 0
+  },
+  {
+    "soldier_id": 5,
+    "leader": false,
+    "code": 22,
+    "level": 1,
+    "exp": 1,
+    "team": 0
+  },
+  {
+    "soldier_id": 6,
+    "leader": false,
+    "code": 22,
+    "level": 1,
+    "exp": 1,
+    "team": 0
+  },
+  {
+    "soldier_id": 7,
+    "leader": false,
+    "code": 15,
+    "level": 1,
+    "exp": 1,
+    "team": 0
+  },
+  {
+    "soldier_id": 8,
+    "leader": false,
+    "code": 15,
+    "level": 1,
+    "exp": 1,
+    "team": 0
+  },
+  {
+    "soldier_id": 9,
+    "leader": false,
+    "code": 15,
+    "level": 1,
+    "exp": 1,
+    "team": 0
+  }
+]
