@@ -1,1 +1,1 @@
-[{"data":[{"grade":4,"name":"레온","attack":30,"hp":100,"spritePath":"Soldier/leon/sp_leon","id":1},{"grade":5,"name":"숙련된 레온","attack":50,"hp":150,"spritePath":"Soldier/leon/sp_leon","id":2},{"grade":6,"name":"강철기사 잔다르크","attack":100,"hp":130,"spritePath":"Soldier/sp_joan_steelKnight","id":3}]}]
+[{"data":[{"grade":0,"name":"전사","attack":0,"hp":0,"spritePath":"","id":1},{"grade":5,"name":"궁수","attack":50,"hp":150,"spritePath":"Soldier/leon/sp_leon","id":2},{"grade":6,"name":"마법사","attack":100,"hp":1997,"spritePath":"Soldier/sp_joan_steelKnight","id":3}]}]
